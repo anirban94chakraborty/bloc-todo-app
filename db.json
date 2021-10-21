@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "todo": "Get Milk from the milk shop",
+      "isCompleted": "true",
+      "id": 1
+    },
+    {
+      "todo": "Buy Groceries for Pujas",
+      "isCompleted": "true",
+      "id": 2
+    }
+  ]
+}
